@@ -1,6 +1,6 @@
 # Hello World!
 
-Ways to say hello world!
+Ways to say "Hello World!":
 - Hallo Welt!
 - Hola Mundo!
 - Bonjour le monde! 
